@@ -10,7 +10,7 @@
 
 	<groupId>nz.ac.auckland.composite</groupId>
 	<artifactId>composite-s3-bus</artifactId>
-	<version>3.1</version>
+	<version>3.2-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>S3 Composite for Syllabus Layer.</name>
@@ -41,8 +41,4 @@
 		</dependency>
 
 	</dependencies>
-
-  <scm>
-    <tag>composite-s3-bus-3.1</tag>
-  </scm>
 </project>
